@@ -8,6 +8,6 @@ Retail shopping trends analysis using SQL and BI visualization
  
 This project analyzes a retail shopping dataset to understand customer purchasing behavior, identify revenue drivers, and generate data-backed business recommendations.
  
-**Tools used:** Python (pandas, matplotlib, seaborn), SQL (SQLite), BI visualization
+**Tools used:** SQL (SQLite · DBeaver), BI visualization (Tableau / Power BI)
  
 **Dataset:** 3,900 transactions · 19 features · synthetic retail data
