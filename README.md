@@ -11,3 +11,5 @@ This project analyzes a retail shopping dataset to understand customer purchasin
 **Tools used:** SQL (SQLite · DBeaver), BI visualization (Tableau / Power BI)
  
 **Dataset:** 3,900 transactions · 19 features · synthetic retail data
+
+**Dashboard:** https://public.tableau.com/app/profile/anton.nikitiuk/viz/ShoppingTrendsAnalysisRetailCustomerInsights/Dashboard1#1
